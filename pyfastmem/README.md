@@ -86,8 +86,15 @@ memory.unlock()
 
 ## License
 
-MIT
+Apache Licence 2.0
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+```apchc
+memory.New = (name: "my_storage")
+memory.Load("my_storage")
+
+save()
+```
