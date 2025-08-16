@@ -92,9 +92,4 @@ Apache Licence 2.0
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-```apchc
-memory.New = (name: "my_storage")
-memory.Load("my_storage")
 
-save()
-```
